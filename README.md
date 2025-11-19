@@ -1,5 +1,7 @@
 # 🚗 DriveU - On-Demand Driver Booking Platform
 
+<img width="1024" height="1024" alt="Logo" src="https://github.com/user-attachments/assets/49df96bd-b2a6-4cc1-b00a-e794a1eecd16" />
+
 **Your Car. Our Verified Drivers.**
 
 DriveU is a comprehensive, production-ready platform that connects car owners with RTO-verified professional drivers for on-demand driving services. Think of it as "Uber for hiring drivers to drive YOUR car" rather than booking a cab.
